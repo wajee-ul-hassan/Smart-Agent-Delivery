@@ -23,4 +23,4 @@ This project is a Python-based AI simulation where an agent delivers items acros
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Agent-Item-Delivery.git
+   git clone https://github.com/yourusername/Smart-Agent-Delivery.git
