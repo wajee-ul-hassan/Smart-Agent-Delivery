@@ -11,7 +11,7 @@ This project is a Python-based AI simulation where an agent delivers items acros
 
 ## Demo
 
-![Demo GIF or Screenshot](https://path_to_demo_image_or_gif)
+![Demo GIF or Screenshot](https://demo.png)
 
 ## How it Works
 
